@@ -1,0 +1,98 @@
+ID = 1
+name = The Enchanted Forest Entrance
+Description
+You stand at the entrance of the Enchanted Forest, a place shrouded in mystery and ancient magic.
+The air is thick with the scent of pine and damp earth.
+The trees are tall and their leaves form a dense canopy above, allowing only slivers of light to penetrate.
+exits
+You can go NORTH 2
+
+ID = 2
+name = The Twisted Path
+Description
+The path ahead winds through the forest, twisting and turning unpredictably.
+The ground is covered in a thick layer of leaves and moss.
+Strange symbols are into the bark of the trees, glowing faintly in the dim light.
+exits
+You can go SOUTH 1
+You can go EAST 3
+You can go NORTH 4
+
+ID = 3
+name = The Ancient Oak
+Description
+You come across a massive oak tree, its trunk gnarled and twisted.
+The branches stretch out wide
+Hearing the whispers of the forest spirits.
+exits
+You can go WEST 2
+You can go NORTH 5
+
+ID = 4
+name = The Moonlit Glade
+Description
+You step into the soft glow of moonlight. The grass here is lush and green
+ In the center of the glade, a small pond reflects the moonlight, its surface shimmering.
+but you can't shake the feeling that you're being watched.
+exits
+You can go SOUTH 2
+You can go EAST 5
+
+ID = 5
+name = The Mystic Grove
+Description
+The trees are adorned with luminescent fungi and glowing flowers. T
+In the center of the grove stands an ancient stone circle
+exits
+You can go WEST 4
+You can go SOUTH 3
+You can go DOWN 6
+
+ID = 6
+name = The Hidden Hollow
+Description
+You descend into a hidden hollow deep within the forest.
+The walls of the hollow are covered in thick, entwined roots.
+You can hear the distant sound of flowing water.
+Whats that? a narrow tunnel leads further down into darkness.
+exits
+You can go UP 5
+You can go NORTH 7
+
+ID = 7
+name = The Crystal Cavern
+Description
+You find yourself in a cavern filled with dazzling crystals.
+The floor is uneven and covered in small, glittering stones.
+At the far end of the cavern, you see a large crystal, pulsating with energy.
+exits
+You can go SOUTH 6
+You can go UP 8
+
+ID = 8
+name = The Sacred Grove
+Description
+You emerge into a sacred grove, a place of ancient power.
+The trees here are ancient and their branches reaching towards the sky.
+In the center of the grove stands a stone altar, covered in runes and symbols.
+exits
+You can go DOWN 7
+You can go EAST 9
+
+ID = 9
+name = The Whispering End
+Description
+This clearing is filled with the sounds of whispers, as if the trees themselves are speaking.
+ A gentle breeze rustles the leaves, and you feel a sense of calm and maybe freedom?...
+exits
+You can go WEST 8
+You can go NORTH 10
+
+ID = 10
+name = Finsihed
+Description
+You stand before a colossal tree, the heart of the Enchanted Forest.
+Where you escaped the abyss Congratulations!!!
+exits
+You can go SOUTH 9
+
